@@ -4,9 +4,17 @@
 
 [个人年度报告在线预览](https://memotrace.cn/2024/single/)
 
+手机可以扫码观看
+
+<img src="./doc/image/qrcode2.png" height="300px"/>
+
 ![](/doc/demo1.gif)
 
 [双人年度报告在线预览](https://memotrace.cn/2024Report/)
+
+手机可以扫码观看
+
+<img src="./doc/image/qrcode1.png" height="300px"/>
 
 ## 使用
 
